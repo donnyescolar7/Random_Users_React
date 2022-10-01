@@ -1,0 +1,38 @@
+.btn{
+    height: 50px;
+    width: 50px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    opacity: 0.8;
+}
+.btn:hover{
+    opacity: 1;
+    color: #9fc177;
+}
+.btn:focus{
+    color: #9fc177;
+}
+
+.bar{
+    display: flex;
+    height: 52px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+
+}
+.icono{
+    height: 20px;
+    width: 20px;
+    
+}
+.toggleG{
+    height: 50px;
+    width: 50px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: green;
+}
